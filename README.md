@@ -54,7 +54,7 @@ The typography was chosen to create a clean, modern, and user-friendly experienc
 
 ---
 
-## ✨ Design Decisions
+## Design Decisions
 
 - Used green tones to represent freshness, health, and trust.
 - Applied rounded cards and soft shadows to create a friendly and approachable interface.
@@ -64,7 +64,7 @@ The typography was chosen to create a clean, modern, and user-friendly experienc
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Figma
 - GitHub
