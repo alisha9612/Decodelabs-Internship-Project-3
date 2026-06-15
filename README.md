@@ -1,6 +1,6 @@
 Here's the figma link for Project-3: https://www.figma.com/design/hhnHc6xpu9ZRp6Y7WcdmTR/Decodelabs-Project-3?node-id=0-1&t=4EnB9WqHuhbXec6p-1
 
-#Project 3
+## Project 3
 
 ## Project Overview
 
